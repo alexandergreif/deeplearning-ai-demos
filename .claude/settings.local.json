@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__RepoPrompt__get_file_tree",
+      "mcp__RepoPrompt__read_file",
+      "mcp__RepoPrompt__manage_selection",
+      "mcp__RepoPrompt__get_code_structure"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
